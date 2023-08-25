@@ -19,8 +19,8 @@ Data model : ![image](https://github.com/Devenderreddy9909/Shield-Insurance/asse
 
 Report 
 
-1st page ![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/94c2bd45-7717-4af4-8bf5-f46b3818502a)
-2nd page ![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/44137c6f-0359-4e00-9872-c473dbd919a9)
+1st page ![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/0063f92d-dcf2-4653-9725-344ad1f691dc)
+2nd page ![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/8953076b-d153-49dd-9e7b-05c9faef8d34)
 3rd page ![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/e41d9f75-9fcb-4875-bd13-cdbaf7b5c915)
 4th page ![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/9edaacb5-08cf-421c-a0fe-1ecff37b3696)
 
