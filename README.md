@@ -22,19 +22,23 @@ Report
 
 1st page 
 
-![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/0063f92d-dcf2-4653-9725-344ad1f691dc)
+![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/1afb6cd4-2317-4422-b63d-a0f7f46eacf7)
+
 
 2nd page
 
-![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/8953076b-d153-49dd-9e7b-05c9faef8d34)
+![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/6bbfd14e-957c-4a57-af38-4a106ab460ae)
+
 
 3rd page
 
-![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/e41d9f75-9fcb-4875-bd13-cdbaf7b5c915)
+![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/6ff574aa-eca1-496a-80a2-39a543d5d0a3)
+
 
 4th page 
 
-![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/9edaacb5-08cf-421c-a0fe-1ecff37b3696)
+![image](https://github.com/Devenderreddy9909/Shield-Insurance/assets/139830333/92a6117d-a49d-4e47-89a2-5936e0235af9)
+
 
 
 Findings---
